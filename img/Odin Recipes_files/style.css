@@ -1,0 +1,25 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+.page-header {
+    color: rgb(24, 24, 32);
+    background-color: rgb(241, 153, 39);
+    font-size: 75px;
+
+}
+
+.img-adjust {
+    height: auto;
+    width: 505px;
+}
+
+.button {
+    background-color: rgb(241, 153, 39)
+}
+
+.ul-center {
+    display: table;
+    margin: 0 auto;
+}
